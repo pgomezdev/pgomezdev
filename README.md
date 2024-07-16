@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Pablo
 
 <!--
 **pgomezdev/pgomezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as a mobile app developer
+- 🌱 I’m currently learning AR stuff
+- ⚡ Specially interested in mobile accessibility and design
+- 📫 How to reach me: pgomez.ping@gmail.com
